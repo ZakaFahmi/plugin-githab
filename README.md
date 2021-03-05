@@ -6,3 +6,4 @@ tempat penyimpanan plugin
 $~/.config/nvim/vim-plug/plugins.vim
 
 
+ini hanya belaku di linux
