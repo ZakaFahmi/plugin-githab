@@ -1,4 +1,4 @@
-# plugin-githab
+# plugin nvim
 ini hanya plugin doang 
 plugin ini aktif di neovim
 
